@@ -46,21 +46,6 @@ Junior Data Analyst and Computer Engineering student with hands-on training in d
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 🏆 Featured Projects
-
-### 📊 Data & Analytics Projects
-
-| 🎁 Project | 🔧 Tech Stack | ⭐ Highlights |
-|-----------|--------------|--------------|
-| [**Integrated Business Dashboard**](https://github.com/mo7amedsawaf) | Excel (Power Query, Power Pivot, DAX) | Consolidated multi-source data; automated ETL and DAX measures; interactive KPI dashboards |
-| [**End-to-End SQL Data Warehouse**](https://github.com/mo7amedsawaf) | SQL Server | Medallion Architecture (Bronze/Silver/Gold); 13+ advanced analytics queries for trend tracking |
-
-### 🧠 Machine Learning Projects
-
-| 🎁 Project | 🔧 Tech Stack | ⭐ Highlights |
-|-----------|--------------|--------------|
-| [**Student Retention Prediction**](https://github.com/mo7amedsawaf) | Python, Logistic Regression, SVM | Predicted student retention using demographic, academic, and financial data; identified high-risk students |
-
 ## 💼 Professional Experience
 
 **Data Analyst Specialist** | Digital Egypt Pioneers Initiative (DEPI) (Dec 2025 – Present)
